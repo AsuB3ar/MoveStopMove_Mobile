@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2892866953975803892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2892866953975803895}
+  - component: {fileID: 2892866953975803894}
+  m_Layer: 0
+  m_Name: PrefabManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2892866953975803895
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2892866953975803892}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2892866953975803894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2892866953975803892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eae697a968e5894d89083a1547d780a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Character: {fileID: 7335153693828646459, guid: b83f21ee2e98db64aadf2a61bea824a7, type: 3}
+  Bullet_Axe1: {fileID: 6022436429646713834, guid: 13ac9a0ebd1debc48934a67c60f2db6f, type: 3}
+  Bullet_Knife1: {fileID: 3624077002375939049, guid: 0eb98e3e4dd11b846aec847cd7d7ebee, type: 3}
+  Bullet_Axe2: {fileID: 6022436429646713834, guid: 6d1bd9372f78f864f9aaf33e21f5aeb7, type: 3}
+  Bullet_Arrow: {fileID: 3628063373359776792, guid: f329a6286f0e73047b87f05000c114e2, type: 3}
+  Weapon_Axe1: {fileID: 5342148423312906101, guid: 0a300759cfb090e4485c3ac085772aa1, type: 3}
+  Weapon_Knife1: {fileID: 5515967797501043881, guid: a67aa9b967ed8e34ca238221708e1e5a, type: 3}
+  Weapon_Axe2: {fileID: 5342148423312906101, guid: a63fe999bb91150459f8041ea4e5e958, type: 3}
+  Weapon_Arrow: {fileID: 2485118370923991048, guid: d900259350a2b8e4c8195f184b0dcef9, type: 3}
+  Hair_Arrow: {fileID: 7312259725456167434, guid: 948344e564b2f264d97bdd4752961e39, type: 3}
+  Hair_Cowboy: {fileID: 8759169980261381309, guid: 54718cb810362f94aa15148ec2238f2f, type: 3}
+  Hair_Headphone: {fileID: 140425126917877817, guid: 4783d54763738f44cb13222e76d49fca, type: 3}
+  Hair_Ear: {fileID: 3856729236474268525, guid: 5aa36223d4bf525448e5d335ea55f972, type: 3}
+  Hair_Crown: {fileID: 6923103723748683159, guid: f3b76edb3526d6e4abca3a253317c5fd, type: 3}
+  Hair_Horn: {fileID: 8226753644670960622, guid: f2e12db11d2337a4a8aec5e0a7598f42, type: 3}
+  Hair_Beard: {fileID: 7173682517394115136, guid: 160c92fb388750441b7fb92e3c733252, type: 3}
+  Obstance: {fileID: 8737265499030574375, guid: 64bc09931a700b645a8bd0da82fcb2f7, type: 3}
+  UIItem: {fileID: 5344068530080740687, guid: 6dd789418a3cf4245be5fe26c29703dd, type: 3}
+  UIIndicator: {fileID: 5550999801274606342, guid: ba4bc4d0a50f5724496af4fc14490a61, type: 3}
+  Gift: {fileID: 1390617833159307850, guid: 62d2391ebd7c82e4ebc2d2dba3c2070b, type: 3}
+  BaseWeapon: {fileID: 5618273737373822372, guid: 2502da38ba921e046b980471ca5fb9bd, type: 3}
+  ObjectCreateWeapon: {fileID: 7874771411103903161, guid: 529b556c2f4ea6945bae82ad11051267, type: 3}
+  Bullet_Axe1Pvp: {fileID: 7421363500163638967, guid: c158f85cb24d9c6408c401a4fc20a6e0, type: 3}
+  Bullet_Knife1Pvp: {fileID: 6705574684389302752, guid: 3df6e0ff70f98f3469cd13e194ad47be, type: 3}
+  Bullet_Axe2Pvp: {fileID: 2400407191981236949, guid: 66afd2d76d7a25748b25a66c38dbc952, type: 3}
+  Bullet_ArrowPvp: {fileID: 2054201637825101391, guid: d5d5ffb241fc44e4abc67dc13d9e088f, type: 3}
+  Weapon_Axe1Pvp: {fileID: 3470079041639399995, guid: e53009947e52a9e4aab10a1137c0d702, type: 3}
+  Weapon_Knife1Pvp: {fileID: 8402059698006968807, guid: 43d4253ec9309a140ac4fc1ecdac32d8, type: 3}
+  Weapon_Axe2Pvp: {fileID: 4098866060226302153, guid: 5df6a206102b0e840ba003dab370ceee, type: 3}
+  Weapon_ArrowPvp: {fileID: 3692015420960399204, guid: 53b5c21ba13c475458b3d109398ccba7, type: 3}
+  pool: {fileID: 7117338696727486318, guid: b572d35da52b1cb459c582254e88fffa, type: 3}

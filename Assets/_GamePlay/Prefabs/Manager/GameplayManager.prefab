@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9019775738535627115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9019775738535627114}
+  - component: {fileID: 9019775738535627113}
+  m_Layer: 0
+  m_Name: GameplayManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9019775738535627114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9019775738535627115}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4.26, z: -8.49}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9019775738535627113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9019775738535627115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00f533c5d595372499e057f7ba69ed67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerScript: {fileID: 0}
+  PlayerCamera: {fileID: 0}
+  TargetIndicator: {fileID: 0}
+  InitScaleTargetIndicator: {x: 0, y: 0, z: 0}
+  cameraMove: {fileID: 0}
+  materials:
+  - {fileID: 2100000, guid: 4fd1d784530fab648889a9b19c8de20f, type: 2}
+  - {fileID: 2100000, guid: dce180f7a630f1b4096268394b3be2da, type: 2}
+  - {fileID: 2100000, guid: 2eae4dcb1aaa0e54a82988ac88ba8737, type: 2}
+  - {fileID: 2100000, guid: 9934411a7f968b649ac2603e237fcb1c, type: 2}
+  - {fileID: 2100000, guid: 2fe9326043223c84e9308058db499802, type: 2}
+  - {fileID: 2100000, guid: 4484bbc375f8ac945a78025cf3772d18, type: 2}
+  - {fileID: 2100000, guid: 58cf95d7a1013c141b8a5e3f853718bf, type: 2}
+  - {fileID: 2100000, guid: a4df7ebb865f02249a88773ad75339ec, type: 2}
+  pantSkins:
+  - {fileID: 2100000, guid: cb220bfb79427c94aab887aa17df3e94, type: 2}
+  - {fileID: 2100000, guid: 14f1741e7c76a864d849fc81af721724, type: 2}
+  - {fileID: 2100000, guid: 5130f3b9ea9bd544d8e9d52b4d41bd42, type: 2}
+  - {fileID: 2100000, guid: 5a8e95390d2410f46bb5964b02dc030e, type: 2}
+  - {fileID: 2100000, guid: b8193d216b34ece4bb85ef0a139d539e, type: 2}
+  - {fileID: 2100000, guid: aad61107308b5e9409128c10b6a44811, type: 2}
+  - {fileID: 2100000, guid: 5f086210704645849bb06f6c73290132, type: 2}
+  - {fileID: 2100000, guid: 3a0efa16f1742d54d8e8eedf8bc40941, type: 2}
+  - {fileID: 2100000, guid: 1ef816eabcaee5b4496ae93042764ffd, type: 2}

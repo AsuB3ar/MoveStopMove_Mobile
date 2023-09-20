@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_GamePlay/Scenes/InitScene/InitScene.unity
+    guid: 5e24bd66b770a554b974228f728a4d53
+  - enabled: 1
+    path: Assets/_GamePlay/Scenes/InitScene/LoadStartScene.unity
+    guid: cc9216f38baf6f04f9af40b38f933dbb
+  - enabled: 1
+    path: Assets/_GamePlay/Scenes/GameScene/PveStandardScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_GamePlay/Scenes/GameScene/PvpLobbyScene.unity
+    guid: afcc1130e767bfe4c9f29270020ae08b
+  - enabled: 1
+    path: Assets/_GamePlay/Scenes/GameScene/InitPvpResourcesScene.unity
+    guid: 50c992c2225ec3546b61756b52c5bf69
+  - enabled: 1
+    path: Assets/_GamePlay/Scenes/GameScene/PvpStandardScene.unity
+    guid: 6cb457a9689f35f4f8479920ce75cdd0
+  m_configObjects: {}

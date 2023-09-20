@@ -1,0 +1,26 @@
+READ ME
+-------
+Asset: My 3D Town  
+Version: 1.0
+Date: 02/05/2020
+
+Texture file:-
+
+Resolution    - 2048*2048
+Size          - 158KB
+File type     - PNG
+   
+Total objects - 37
+No of polys   - 3736
+No of verti   - 4939
+
+Buildings
+- Office Buildings, Coffee Shop, Garage, Shoe Shop, General Stores.
+(Buildings & shops comes with multiple color variants)
+
+Props
+- Trees, Wooden fences, Gate, Road corner, Road straight, Dustbin, Umbrella, Traffic Cones, Traffic Barrier, Street Light, Traffic light.
+
+Vehicles- Cars, Buses, Trucks
+
+Copyright 2019, Innovana Techlabs Limited. All rights reserved.
